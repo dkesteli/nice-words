@@ -11,3 +11,6 @@ paon
 poule
 coq
 veau
+poisson rouge
+raie
+lotte
