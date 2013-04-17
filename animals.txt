@@ -1,3 +1,9 @@
+lievre
 chèvre
 poney
 cheval
+ane
+hibou
+ecureuil
+lapin
+vache
