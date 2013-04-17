@@ -8,3 +8,6 @@ ecureuil
 lapin
 vache
 paon
+poule
+coq
+veau
